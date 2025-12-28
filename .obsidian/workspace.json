@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic/Привет.md",
+                "file": "Basic/DNS,WHOIS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Привет"
+              "title": "DNS,WHOIS"
             }
           }
         ]
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +194,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "a9c95492e952c57f",
+  "active": "3296c11f031dacd5",
   "lastOpenFiles": [
-    "Untitled",
     "Basic/Привет.md",
+    "Basic/DNS,WHOIS.md",
+    "Untitled",
     "Basic"
   ]
 }
