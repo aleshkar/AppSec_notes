@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Архивирование и утилиты.md",
+                "file": "Linux/Самые важные команды(стоит знать).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Архивирование и утилиты"
+              "title": "Самые важные команды(стоит знать)"
             }
           }
         ],
@@ -211,6 +211,8 @@
   },
   "active": "7d428182e67c8311",
   "lastOpenFiles": [
+    "Linux/Работа с пользователями(команды).md",
+    "Linux/Самые важные команды(стоит знать).md",
     "Linux/Linux command(для себя).md",
     "Linux/Архивирование и утилиты.md",
     "Linux",
