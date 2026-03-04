@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Команда htop, systemctl и тд..md",
+                "file": "Linux/apt - управление по.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команда htop, systemctl и тд."
+              "title": "apt - управление по"
             }
           }
         ],
@@ -225,8 +225,9 @@
   },
   "active": "7b3af7158d883c17",
   "lastOpenFiles": [
-    "Английский/Слова English.md",
     "Linux/Команда htop, systemctl и тд..md",
+    "Linux/apt - управление по.md",
+    "Английский/Слова English.md",
     "Английский",
     "Linux/Работа с пользователями в Linux(команды).md",
     "Linux/Самые важные команды(стоит знать).md",

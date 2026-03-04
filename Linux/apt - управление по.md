@@ -1,0 +1,8 @@
+- `sudo apt update` - обновить список пакетов из репозиториев (подготовка обновления или установки ПО)
+- `sudo apt upgrade -y` - выполнить обновление ПО
+- `sudo apt-get install htop` - установить утилиту htop
+- `sudo apt-get remove htop` - удалить утилиту htop
+- `sudo apt-get purge htop` - удалить утилиту htop вместе с настройками
+- `apt moo` - коровья суперсила
+- `aptitude moo -vvvvv` - коровья суперсила 2
+- `sudo apt install cowsay` - коровья суперсила 3
